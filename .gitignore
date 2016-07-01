@@ -45,3 +45,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+/CN1UIDemo/nbproject/private/
+/CN1UIDemo/build/
+/CN1UIDemo/lib/
+/CN1UIDemo/lib/impl/
+/CN1UIDemo/dist/
+/CN1UIDemo/JavaSE.jar
